@@ -58,7 +58,7 @@ function App() {
         <div className="max-w-screen-xl flex flex-wrap items-center mx-auto p-4">
           <a className='text-white' href="http://www.instagram.com/code_assaulter" target='_blank' rel="noreferrer">
 
-           <h1> <span className="self-center text-xl text-center font-semibold whitespace-nowrap">College Project</span> </h1>
+           <h1> <span className="self-center text-xl text-center font-semibold whitespace-nowrap">College Project by </span> Abhishek Kumar </h1>
           </a>
           
         </div>
