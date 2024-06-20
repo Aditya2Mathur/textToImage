@@ -1,8 +1,33 @@
-# React + Vite
+# Image Generator Ai
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Description of your project.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Feature 1
+- Feature 2
+- ...
+
+## Screenshots
+
+### Screen 1
+!"Description of screenshot 1")
+
+### Screen 2
+!(images/screen2.png "Description of screenshot 2")
+
+## Usage
+
+1. Clone the repository.
+2. Install dependencies.
+3. Run the application.
+
+## Images
+
+To add custom images, replace the placeholders below with the appropriate image URLs or file paths:
+
+### Image 1
+![Image 1](images/image1.jpg "Description of image 1")
+
+### Image 2
+![Image 2](images/image2.png "Description of image 2")
